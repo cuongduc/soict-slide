@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Methods}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Convolutional Neural Networks (CNNs)}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{Dataset}{4}{0}{2}
+\beamer@subsectionintoc {2}{3}{Training the CNN}{8}{0}{2}
+\beamer@subsectionintoc {2}{4}{Training the CNN}{9}{0}{2}
+\beamer@sectionintoc {3}{Results}{11}{0}{3}
